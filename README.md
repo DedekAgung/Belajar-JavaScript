@@ -1,2 +1,5 @@
-# Belajar-JavaScript-2
-Repo yang berisi arsip proses belajar JavaScripts saya.
+# Belajar JavaScript
+Repo ini berisi arsip dari proses saya mempelajari bahasa pemrograman JavaScript secara otodidak.
+
+Belajar melalui : 
+Youtube : https://www.youtube.com/@sandhikagalihWPU
